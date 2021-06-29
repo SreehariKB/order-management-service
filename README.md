@@ -1,6 +1,6 @@
 # order-management-service
-##This is an order management service.
-###Endpoints
+## This is an order management service.
+### Endpoints
 Place an order.
 Search an order
 update an order.
